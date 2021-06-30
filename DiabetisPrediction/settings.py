@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-dt3k*vyrn54rbeqx_wmd28qi97z+d6@%9^fyt(hz%b(%!t00-o
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'diaprediction.herokuapp.com'
+    'diaprediction.herokuapp.com','198.211.99.20', 'localhost', '127.0.0.1'
 ]
 
 
