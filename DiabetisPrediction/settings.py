@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-dt3k*vyrn54rbeqx_wmd28qi97z+d6@%9^fyt(hz%b(%!t00-o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'diaprediction.herokuapp.com'
+]
 
 
 # Application definition
