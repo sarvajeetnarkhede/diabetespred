@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: url("img1.jpg") no-repeat fixed center;
+    background-size: cover;
+}
+
+/* Home */
+.home {
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.home-button {
+    padding: 10px 30px 10px 30px;
+    background: rgba(0, 0, 255, 0.97);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 50px 0 50px 0;
+}
+
+.home-button:hover {
+    background: rgba(0, 0, 255, 0.50);
+}
+
+/*/Home*/
