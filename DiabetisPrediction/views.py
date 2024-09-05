@@ -10,7 +10,7 @@ def home(request):
 
 
 def predict(request):
-    return render(request, 'predict.htm')
+    return render(request, 'predict.html')
 
 
 def result(request):
